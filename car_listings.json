@@ -1,0 +1,470 @@
+{
+  "Filtered_Products": [
+    {
+      "Name": "Mitsubishi Lancer",
+      "Year": "2007",
+      "Price": 4200.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88083370",
+      "Price_EUR": 4200.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2019",
+      "Price": 13990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86269644",
+      "Price_EUR": 13990.0
+    },
+    {
+      "Name": "Ford Fusion",
+      "Year": "2011",
+      "Price": 4900.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88074024",
+      "Price_EUR": 4900.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2018",
+      "Price": 13990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86421417",
+      "Price_EUR": 13990.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2018",
+      "Price": 14950.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86421934",
+      "Price_EUR": 14950.0
+    },
+    {
+      "Name": "BMW X5",
+      "Year": "2007",
+      "Price": 15300.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88282112",
+      "Price_EUR": 15300.0
+    },
+    {
+      "Name": "Toyota Prius",
+      "Year": "2007",
+      "Price": 5500.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88402753",
+      "Price_EUR": 5500.0
+    },
+    {
+      "Name": "Toyota Prius",
+      "Year": "2009",
+      "Price": 5500.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88442886",
+      "Price_EUR": 5500.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2019",
+      "Price": 15990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86912485",
+      "Price_EUR": 15990.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2021",
+      "Price": 17790.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86690317",
+      "Price_EUR": 17790.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2018",
+      "Price": 14990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86102238",
+      "Price_EUR": 14990.0
+    },
+    {
+      "Name": "Opel Grandland X",
+      "Year": "2021",
+      "Price": 15990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87127036",
+      "Price_EUR": 15990.0
+    },
+    {
+      "Name": "Ford Fiesta",
+      "Year": "2014",
+      "Price": 5200.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88394451",
+      "Price_EUR": 5200.0
+    },
+    {
+      "Name": "Nissan Qashqai",
+      "Year": "2011",
+      "Price": 7500.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88354691",
+      "Price_EUR": 7500.0
+    },
+    {
+      "Name": "Mercedes A-Class",
+      "Year": "2007",
+      "Price": 4900.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88035365",
+      "Price_EUR": 4900.0
+    },
+    {
+      "Name": "Citroen C5 Aircross",
+      "Year": "2020",
+      "Price": 16450.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87623585",
+      "Price_EUR": 16450.0
+    },
+    {
+      "Name": "Citroen C5 Aircross",
+      "Year": "2020",
+      "Price": 18250.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88063331",
+      "Price_EUR": 18250.0
+    },
+    {
+      "Name": "Citroen C5 Aircross",
+      "Year": "2020",
+      "Price": 16850.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87344064",
+      "Price_EUR": 16850.0
+    },
+    {
+      "Name": "Citroen C5 Aircross",
+      "Year": "2020",
+      "Price": 16950.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87497586",
+      "Price_EUR": 16950.0
+    },
+    {
+      "Name": "Ford Fiesta",
+      "Year": "2019",
+      "Price": 8880.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88618159",
+      "Price_EUR": 8880.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2018",
+      "Price": 12190.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86732140",
+      "Price_EUR": 12190.0
+    },
+    {
+      "Name": "Toyota Verso-S",
+      "Year": "2013",
+      "Price": 7650.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88593129",
+      "Price_EUR": 7650.0
+    },
+    {
+      "Name": "Toyota Prius v",
+      "Year": "2012",
+      "Price": 10999.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88618208",
+      "Price_EUR": 10999.0
+    },
+    {
+      "Name": "Toyota Corolla",
+      "Year": "2019",
+      "Price": 16300.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88432203",
+      "Price_EUR": 16300.0
+    },
+    {
+      "Name": "BMW 5 Series",
+      "Year": "2011",
+      "Price": 18999.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/84694390",
+      "Price_EUR": 18999.0
+    },
+    {
+      "Name": "BMW X5",
+      "Year": "2003",
+      "Price": 10799.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88618198",
+      "Price_EUR": 10799.0
+    },
+    {
+      "Name": "Ford Focus",
+      "Year": "2019",
+      "Price": 11350.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86802470",
+      "Price_EUR": 11350.0
+    },
+    {
+      "Name": "Renault Kadjar",
+      "Year": "2020",
+      "Price": 15350.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88070229",
+      "Price_EUR": 15350.0
+    },
+    {
+      "Name": "Renault Kadjar",
+      "Year": "2018",
+      "Price": 13450.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88607776",
+      "Price_EUR": 13450.0
+    },
+    {
+      "Name": "Lexus UX",
+      "Year": "2020",
+      "Price": 19990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88550023",
+      "Price_EUR": 19990.0
+    },
+    {
+      "Name": "Volkswagen Golf",
+      "Year": "2012",
+      "Price": 4000.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/54015930",
+      "Price_EUR": 4000.0
+    },
+    {
+      "Name": "Land Rover Range Rover Evoque",
+      "Year": "2014",
+      "Price": 10000.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/54016866",
+      "Price_EUR": 10000.0
+    },
+    {
+      "Name": "Toyota Auris",
+      "Year": "2017",
+      "Price": 3600.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/54032114",
+      "Price_EUR": 3600.0
+    },
+    {
+      "Name": "Renault Grand Scenic",
+      "Year": "2007",
+      "Price": 1500.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/54032053",
+      "Price_EUR": 1500.0
+    },
+    {
+      "Name": "Jeep Renegade",
+      "Year": "2019",
+      "Price": 16800.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87308421",
+      "Price_EUR": 16800.0
+    },
+    {
+      "Name": "Opel Astra",
+      "Year": "2019",
+      "Price": 13000.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87988762",
+      "Price_EUR": 13000.0
+    },
+    {
+      "Name": "Land Rover Range Rover Evoque",
+      "Year": "2016",
+      "Price": 19500.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87679932",
+      "Price_EUR": 19500.0
+    },
+    {
+      "Name": "Nissan Qashqai",
+      "Year": "2020",
+      "Price": 15850.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87930005",
+      "Price_EUR": 15850.0
+    },
+    {
+      "Name": "Skoda Rapid",
+      "Year": "2017",
+      "Price": 6950.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88011970",
+      "Price_EUR": 6950.0
+    },
+    {
+      "Name": "Renault Kadjar",
+      "Year": "2019",
+      "Price": 14650.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86345304",
+      "Price_EUR": 14650.0
+    },
+    {
+      "Name": "Ford Focus",
+      "Year": "2016",
+      "Price": 7950.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88007454",
+      "Price_EUR": 7950.0
+    },
+    {
+      "Name": "Renault Kadjar",
+      "Year": "2019",
+      "Price": 14490.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/52517668",
+      "Price_EUR": 14490.0
+    },
+    {
+      "Name": "Lincoln MKZ",
+      "Year": "2019",
+      "Price": 17999.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88600820",
+      "Price_EUR": 17999.0
+    },
+    {
+      "Name": "BMW 5 Series",
+      "Year": "No year",
+      "Price": 1650.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/73227851",
+      "Price_EUR": 1650.0
+    },
+    {
+      "Name": "Nissan Qashqai",
+      "Year": "2017",
+      "Price": 15650.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87017876",
+      "Price_EUR": 15650.0
+    },
+    {
+      "Name": "Nissan Qashqai",
+      "Year": "2020",
+      "Price": 14250.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88073164",
+      "Price_EUR": 14250.0
+    },
+    {
+      "Name": "Nissan Qashqai",
+      "Year": "2019",
+      "Price": 15390.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86729566",
+      "Price_EUR": 15390.0
+    },
+    {
+      "Name": "Renault Kadjar",
+      "Year": "2018",
+      "Price": 15750.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88150763",
+      "Price_EUR": 15750.0
+    },
+    {
+      "Name": "Renault Megane",
+      "Year": "2018",
+      "Price": 10600.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88535666",
+      "Price_EUR": 10600.0
+    },
+    {
+      "Name": "Peugeot 3008",
+      "Year": "2019",
+      "Price": 15990.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87422740",
+      "Price_EUR": 15990.0
+    },
+    {
+      "Name": "Lexus HS Series",
+      "Year": "2009",
+      "Price": 10000.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88601421",
+      "Price_EUR": 10000.0
+    },
+    {
+      "Name": "Hyundai Santa FE",
+      "Year": "2007",
+      "Price": 7900.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88014886",
+      "Price_EUR": 7900.0
+    },
+    {
+      "Name": "BMW 5 Series",
+      "Year": "2014",
+      "Price": 16700.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88017337",
+      "Price_EUR": 16700.0
+    },
+    {
+      "Name": "Skoda Rapid",
+      "Year": "2017",
+      "Price": 9800.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88588810",
+      "Price_EUR": 9800.0
+    },
+    {
+      "Name": "Renault Megane",
+      "Year": "2010",
+      "Price": 5950.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88571668",
+      "Price_EUR": 5950.0
+    },
+    {
+      "Name": "Skoda Octavia",
+      "Year": "2006",
+      "Price": 4400.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/88618178",
+      "Price_EUR": 4400.0
+    },
+    {
+      "Name": "Opel Astra",
+      "Year": "2011",
+      "Price": 5900.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/86745128",
+      "Price_EUR": 5900.0
+    },
+    {
+      "Name": "Toyota Auris",
+      "Year": "2009",
+      "Price": 6599.0,
+      "Currency": "EURO",
+      "Link": "https://999.md/ro/87889646",
+      "Price_EUR": 6599.0
+    }
+  ],
+  "Total_Sum_EUR": 677965.0,
+  "Timestamp_UTC": "2024-10-11T10:54:42.496511"
+}
